@@ -1,0 +1,2 @@
+1. Nhập 1 số x từ bàn phím. Hỏi x là số chẵn hay lẻ?
+2. Viết chương trình kiểm tra năm nhập vào là năm nhuận hay ko nhuận?

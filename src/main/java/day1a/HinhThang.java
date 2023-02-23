@@ -1,4 +1,4 @@
-package day1;
+package day1a;
 
 import java.util.Scanner;
 
@@ -13,8 +13,6 @@ public class HinhThang {
     HinhThangCan[chuVi: ... cm, dienTich: ... cm^2 ]
      */
     // Test: a = 2, b = 3, m = 4
-
-
 
     public static void main(String[] args) {
         // Bước 1: Nhập dữ liệu
