@@ -7,3 +7,7 @@ VD: x = 5, y = 6
 Sau khi hoán đổi
 x = 6, y = 5
 
+4. Giải phương trình bậc nhất: ax + b = 0
+5. Tìm số lớn nhất trong 5 số a, b, c, d, e?
+
+
