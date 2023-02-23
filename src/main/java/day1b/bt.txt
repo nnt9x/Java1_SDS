@@ -1,2 +1,9 @@
 1. Nhập 1 số x từ bàn phím. Hỏi x là số chẵn hay lẻ?
 2. Viết chương trình kiểm tra năm nhập vào là năm nhuận hay ko nhuận?
+3. Viết chương trình, hoán đổi giá trị 2
+biến x và y??
+VD: x = 5, y = 6
+
+Sau khi hoán đổi
+x = 6, y = 5
+
