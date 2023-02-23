@@ -14,6 +14,9 @@ public class InputExample {
         System.out.print("Nhập năm sinh: ");
         int dob = in.nextInt();
 
+        // Kết thúc nhập
+        in.close();
+
         // Tinh tuổi
         int age = 2023 - dob;
 
@@ -23,7 +26,7 @@ public class InputExample {
         "Tôi tên là ..., năm nay tôi ... tuổi"
          */
 
-
+        System.out.printf("Tôi tên là %s, năm nay tôi %d tuổi\n", name, age );
 
     }
 }
