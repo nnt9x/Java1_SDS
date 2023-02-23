@@ -24,7 +24,7 @@ public class HinhTron {
         double dt = 3.14 * r * r;
 
         // Bước 3: In ra console
-        System.out.printf("HinhTron[chuVi=%f, dienTich=%f]",cv, dt);
+        System.out.printf("HinhTron[chuVi=%10.3f, dienTich=%-10.3f]",cv, dt);
         // Kết quả làm tròn đến chữ số thập phân thứ 3??
 
     }
