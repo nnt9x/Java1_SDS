@@ -1,0 +1,29 @@
+1. Nhập n từ bàn phím, kiểm tra n là số âm hay dương?
+// Sử dụng: if--elseif--else hoặc toàn bộ if?
+// Sử dung: nested if
+
+2. Chuyển khối sau sang if
+if(a > 5){
+ ...
+}
+else if (d > 6 || b < 8){
+ ...
+}
+else{
+...
+}
+// Chuyen doi
+if (a > 5){
+...
+}
+if(!(a>5) && (d > 6 || b < 8)){
+...
+}
+if(!(a > 5) && !(d > 6 || b < 8)){
+
+}
+
+3. Nhập vào năm và tháng, kiểm tra tháng đó
+có bao nhiêu ngày?
+// Input: năm (ko âm), tháng (1-12)
+// Output: số ngày trong tháng (1-31)

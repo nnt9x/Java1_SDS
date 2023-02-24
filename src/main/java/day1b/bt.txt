@@ -10,4 +10,17 @@ x = 6, y = 5
 4. Giải phương trình bậc nhất: ax + b = 0
 5. Tìm số lớn nhất trong 5 số a, b, c, d, e?
 
+6. Nhập vào 3 số a, b, c từ bàn phím, Hỏi a, b, c có phải 3 cạnh của tam giác hay ko?
+Nếu có hãy tính chu vi và diện tích.
+
+7. Viết chương trình tính chu vi và diện tích hình chữ nhật.
+
+8. Viết chương trình tính tiền thuê phòng như sau:
+- Giá phòng = giá cố định (theo hợp đồng) + tiền điện + tiền nước + dịch vụ...
+- Tiền điện: 4k/1 số
+- Tiền nước: 30k/1 khối
+- Dich vụ khác: chủ động nhập thêm
+
+Lưu ý: nhập tiền điện tháng trước/ này, số nước trước/này -> tính tự đông
+
 
