@@ -29,6 +29,5 @@ public class BT4 {
             t = 1/t;
         }
         System.out.printf("%.2f^%d = %.2f",a, b, t );
-
     }
 }
