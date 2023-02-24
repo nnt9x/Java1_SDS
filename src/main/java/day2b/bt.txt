@@ -18,4 +18,18 @@ ko phải nguyên tố.
 
 
 3. Tính n!
+# Input: so nguyen n (n ko am)
+# Output: n!
+# 0! = 1 (quy uoc)
+# 1! = 1*1
+# 2! = 1*2
+# 3! = 1*2*3
+# n! = 1*2*..*n
+
 4. Tinh a^b (ko su dung ham co san)
+# input: a, b (b la so nguyen)
+# output: a^b
+
+VD: 2^3 = 2*2*2 (3 lan)
+VD: 2^-3 = 1/ (2*2*2)
+VD: 2^ 0 = 1
