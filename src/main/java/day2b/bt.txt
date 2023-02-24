@@ -1,8 +1,21 @@
 # Sử dụng while hoặc do-while
+# break: thoát khỏi vòng lặp
+# continue: bỏ vòng lặp hiện tại, bắt đầu vòng lặp mới.
 
 1. Tinh tổng các số lẻ trong đoạn [a, b]
+# Input: nguyen a, b (a < b)
+# Output: tong cac so le
 
-2. Nhập x từ bàn phím, hỏi x có phải là số nguyên
-tố?
+2. Nhập x từ bàn phím, hỏi x có phải là số nguyên tố?
+# Input: nguyen x
+# Output: nguyen to hay ko?
+
+# So nguyen to la so ntn? vd: 3(1, 3), 2 (1, 2), luu y, 1 ko phai
+# nguyen to
+
+# Mac dinh: nguyen to -> chi can tim 1 TH so đó chia hết-> kết luận
+ko phải nguyên tố.
+
 
 3. Tính n!
+4. Tinh a^b (ko su dung ham co san)
