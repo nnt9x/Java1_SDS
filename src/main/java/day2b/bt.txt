@@ -1,0 +1,8 @@
+# Sử dụng while hoặc do-while
+
+1. Tinh tổng các số lẻ trong đoạn [a, b]
+
+2. Nhập x từ bàn phím, hỏi x có phải là số nguyên
+tố?
+
+3. Tính n!
