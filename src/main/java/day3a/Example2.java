@@ -7,6 +7,7 @@ public class Example2 {
         System.out.println("Hello");
     }
     // loai 2: ko co tham so, co gia tri tra ve
+
     public static double getPI(){
         return 3.14;
     }
@@ -30,6 +31,7 @@ public class Example2 {
 
         chuViHT(5);
         chuViHT(7);
+
 
     }
 }
