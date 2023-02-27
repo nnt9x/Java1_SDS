@@ -14,4 +14,5 @@ public class B115 {
         inThongTin("Nguyen Van A", 8, 9);
         inThongTin("Nguyen Van B", 5, -2);
     }
+
 }
