@@ -16,3 +16,7 @@ giá trị trả về double
 
 b. Tạo mảng gồm 10 đối tượng HinhChuNhat -> in ra thông
 tin của hình chữ nhật có diện tích lớn nhất.
+
+2. Viết chương trình tính chu vi, diện tích hình tròn theo 2 cách.
+- Hướng thủ tục
+- Hướng đối tượng

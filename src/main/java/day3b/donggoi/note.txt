@@ -1,0 +1,19 @@
+VD: Tai khoan ngan hang
+- id: private
+- name: public/default
+- cccd: private
+- address: public/default
+- balance: private
+
+acc = new Account();
+
+acc.balance = 100000000;
+
+# Human
+- id, name, address
++ an()
++ ngu()
++ wc()
+- tieuHoa()
+
+

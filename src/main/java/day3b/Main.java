@@ -1,5 +1,7 @@
 package day3b;
 
+import day3b.donggoi.Student;
+
 import java.util.Scanner;
 
 public class Main {
@@ -27,5 +29,8 @@ public class Main {
 
         in.close();
         d2.run();
+
+
+
     }
 }
