@@ -1,0 +1,8 @@
+1. Viết chương trình nhập vào 1 mảng số thực
+(có thể gồm
+âm hoặc dương) là bán kính của hình tròn.
+a. Có bao nhiêu hình tròn hợp lệ?
+b. Tính tổng chu vi của các hình tròn.
+c. Tìm ra hình tròn có chu vi lớn nhất.
+
+Yêu câu: sử dụng hàm để tính chu vi
