@@ -11,18 +11,14 @@ public class SwitchCaseExample {
         long n  = in.nextLong();
         in.close();
 
-        switch ( (int) n){
-            case 0:
-                System.out.println("khong am khong duong");
-                break;
-            default:
-                if(n > 0){
-                    System.out.println(n+" la so duong");
-                }
-                else{
-                    System.out.println(n+" la so am");
-                }
-                break;
+        if ((int) n == 0) {
+            System.out.println("khong am khong duong");
+        } else {
+            if (n > 0) {
+                System.out.println(n + " la so duong");
+            } else {
+                System.out.println(n + " la so am");
+            }
         }
     }
 }

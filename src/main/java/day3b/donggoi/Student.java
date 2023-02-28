@@ -2,7 +2,7 @@ package day3b.donggoi;
 
 public class Student {
     // default
-    private String id;
+    private final String id;
 
     public String name;
     String address;

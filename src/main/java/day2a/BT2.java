@@ -13,7 +13,7 @@ public class BT2 {
         // Buoc 2: Tinh toan
         long t = 0;
         for(int i = 1; i <= n; i++){
-            t = t + i*i;
+            t = t + (long) i *i;
         }
         System.out.println(t);
     }

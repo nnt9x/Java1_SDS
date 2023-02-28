@@ -1,0 +1,12 @@
+1. Viết class HinhChuNhat:
+- chieuDai: double = 1
+- chieuRong: double = 1
+
++ tinhChuVi(): double
++ tinhDienTich(): double
+
+
+Viết class HinhVuong extends HinhChuNhat
++ canh: double = 1
+
+Tao 2 đối tượng HCN, HV -> tính chu vi, diện tích.

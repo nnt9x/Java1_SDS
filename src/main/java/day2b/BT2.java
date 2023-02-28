@@ -14,10 +14,7 @@ public class BT2 {
             System.exit(0);
         }
         // Buoc 2:Kiem tra
-        boolean isNguyenTo = true;
-        if(n == 1){
-            isNguyenTo = false;
-        }
+        boolean isNguyenTo = n != 1;
         //
         for(int i = 2; i <= Math.sqrt(n); i++){
             if(n % i == 0){
@@ -25,7 +22,7 @@ public class BT2 {
                 break;
             }
         }
-        if(isNguyenTo == true){
+        if(isNguyenTo){
             System.out.println(n + " la so nguyen to");
         }
         else {
