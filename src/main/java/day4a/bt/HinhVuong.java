@@ -1,4 +1,4 @@
-package day4a.bt1;
+package day4a.bt;
 
 public class HinhVuong extends HinhChuNhat {
     private double canh = 1;

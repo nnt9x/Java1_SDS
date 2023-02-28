@@ -1,4 +1,4 @@
-package day4a.bt1;
+package day4a.bt;
 
 public class HinhChuNhat {
     private double chieuDai = 1;
