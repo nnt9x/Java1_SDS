@@ -83,6 +83,7 @@ public class App {
                     break;
                 case 0:
                     System.out.println("Kết thúc chương trình");
+                    in.close();
                     System.exit(0);
                     break;
             }
