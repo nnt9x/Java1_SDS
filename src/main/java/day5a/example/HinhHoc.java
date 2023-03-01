@@ -1,6 +1,6 @@
 package day5a.example;
 
-public interface HinhHoc {
+public interface HinhHoc extends InitFromKeyboard {
     public double tinhChuVi();
     public double tinhDienTich();
 }

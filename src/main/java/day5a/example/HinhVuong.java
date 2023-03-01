@@ -1,8 +1,12 @@
 package day5a.example;
 
+import java.util.Scanner;
+
 public class HinhVuong implements HinhHoc{
 
     private double canh;
+
+    public HinhVuong(){}
 
     public HinhVuong(double canh) {
         this.canh = canh;
@@ -31,5 +35,11 @@ public class HinhVuong implements HinhHoc{
         return "HinhVuong{" +
                 "canh=" + canh +
                 '}';
+    }
+
+    @Override
+    public void initFromKeyBoard(Scanner scanner) {
+        System.out.print("Nhập cạnh: ");
+        canh = Double.parseDouble(scanner.nextLine());
     }
 }

@@ -1,9 +1,12 @@
 package day5a.example;
 
 import java.nio.channels.Pipe;
+import java.util.Scanner;
 
 public class HinhTron implements HinhHoc {
     private double banKinh;
+
+    public HinhTron(){}
 
     public HinhTron(double banKinh) {
         this.banKinh = banKinh;
@@ -32,5 +35,11 @@ public class HinhTron implements HinhHoc {
         return "HinhTron{" +
                 "banKinh=" + banKinh +
                 '}';
+    }
+
+    @Override
+    public void initFromKeyBoard(Scanner scanner) {
+        System.out.print("Nhập bán kính: ");
+        banKinh = Double.parseDouble(scanner.nextLine());
     }
 }
