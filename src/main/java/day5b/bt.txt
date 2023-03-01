@@ -1,0 +1,9 @@
+1. Viết chương trình tính hiệu 2 số nguyên a và b.
+Cho phép người dùng nhập lại cho đến khi tính dc ít nhất 1 phép tính.
+
+a, b:
+
+# OUTPUT
+abc 0 -> nhập lại
+4 0 -> nhập lại
+4 2 -> 2 -> kết thúc
