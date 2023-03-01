@@ -1,4 +1,4 @@
-package day5a.b6_3;
+package day5a.b6_3_6_4;
 
 public class MovablePoint implements Movable{
     int x;
